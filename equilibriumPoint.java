@@ -1,4 +1,5 @@
 // Platform GFG https://practice.geeksforgeeks.org/problems/equilibrium-point-1587115620/1?page=1&sprint=a663236c31453b969852f9ea22507634&sortBy=submissions
+// Day #1 of 100 Days_Of_code
 
 class Solution {
     // a: input array
