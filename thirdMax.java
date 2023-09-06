@@ -1,6 +1,7 @@
 // Platform Leetcode https://leetcode.com/problems/third-maximum-number/
 // Day #2 of 100 Days_Of_code
 
+
 class Solution {
     public int thirdMax(int[] nums) {
         // Initialize three variables to store the top three maximum values.
